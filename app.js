@@ -1,4 +1,3 @@
- <script>
         // Create stars
         function createStars() {
             const starsContainer = document.getElementById('stars');
@@ -281,4 +280,3 @@
             document.body.appendChild(breathingButton);
         });
         
-    </script>
